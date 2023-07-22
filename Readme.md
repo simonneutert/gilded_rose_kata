@@ -30,4 +30,6 @@ Fire up your terminal, clone the repository, `cd` into one of the directories an
 
 `$ ruby -Itest gilded_rose_test.rb`
 
+The directory `07_extending` will work for sure.
+
 ## Contributors / Pull Requests are welcome :octocat:
